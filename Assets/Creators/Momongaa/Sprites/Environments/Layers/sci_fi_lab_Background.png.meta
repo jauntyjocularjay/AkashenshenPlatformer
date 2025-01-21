@@ -1,0 +1,1165 @@
+fileFormatVersion: 2
+guid: ece27d9b42dc45644a1a43a2fd5a8300
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 6
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34758619ef98e034fa38d2f77bf7b0b6
+      internalID: 639454677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745eb66e2b2584b4791846ad1d9a23a9
+      internalID: 897271371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_53
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 184
+        width: 40
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9143951ee5aa91c409ae03bdd20bfeba
+      internalID: 281510702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_55
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 184
+        width: 40
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9dcea886c14e4da618a40ba161ffa
+      internalID: -1419614013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 184
+        width: 8
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55df4550b07084419a746a4b8800436
+      internalID: -2083244376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_62
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 184
+        width: 8
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641321fc668de3a4ba3a43c90eaba787
+      internalID: -1400172953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c197e7d605cf94e92f927fa0a44fb1
+      internalID: -1777984278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 159
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa0bf6121b4a6b4d9dda92adbec7117
+      internalID: -1936670109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_88
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 159
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d350205688a5c478f75d938857f579
+      internalID: 916945779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_89
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 159
+        width: 34
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f42c261428f754a8e147abcebd19b1
+      internalID: -126766956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_111
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 159
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb107acb954c642bffbd3ffbddf56e
+      internalID: -1464423542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_174
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 77
+        width: 32
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0767dc754c2d63846af09cce07057c15
+      internalID: 129564970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_175
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 77
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8874b8d4cc09ac84d8c3770869af3501
+      internalID: -215663469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_194
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 76
+        width: 40
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6205a046c42edeb47b01d590e7b1a3aa
+      internalID: -47461673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_195
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 78
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d3d19b5d7d24c4c8f0feedd195c4e4
+      internalID: 881752331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_196
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 94
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93e6c2c6fbdbd24dbed72314e8dc768
+      internalID: -176353459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_217
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 76
+        width: 16
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724606ffb939987459958e9db2941b24
+      internalID: -645950502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background-lab
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 54
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286efe13157a95a4386e0c5274ab5c47
+      internalID: 1562446747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tube
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 48
+        width: 44
+        height: 64
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe5c6e4bd1280b4e95b381e21f16cd5
+      internalID: -752241829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_226
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 64
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229414bf766491b4cb896f37cbcebf54
+      internalID: 1240160381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_230
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 48
+        width: 64
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78046748f6439734d9ec27e80708faa9
+      internalID: -1417098475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_234
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 48
+        width: 24
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99455bb7077488e408dd6c6bfd03fa97
+      internalID: -894202974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_235
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 48
+        width: 48
+        height: 28
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716c72be82fc9a14da9d574dbb7fee1a
+      internalID: 1201465785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_238
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 48
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b5411a414f92847b8fd189eb082bf1
+      internalID: 1675242367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_239
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 16
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35059dd4ecb96c645bbda890acb266b8
+      internalID: -1150394854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_255
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 61
+        width: 4
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f0989cfc8354345ac104e2591a230d
+      internalID: 1604642700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_256
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50dd2f7b7d4fec48b5aef58c8e559ef
+      internalID: -408551690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_257
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 48
+        width: 4
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364534f54bf100b4694d8a9bb09d7488
+      internalID: -1704134650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_258
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 48
+        width: 4
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcf8e429a26a0048bb962908f4a3cf7
+      internalID: 175300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_259
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 48
+        width: 4
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15b5b1462f405548b2def8775c7dd4b
+      internalID: -2145091912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_275
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 77
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fd0420b080e4c4ab3ef3d6edfa6343
+      internalID: -605671771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_276
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a63735c1824944816509ea8a00626
+      internalID: -1206922803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_295
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8902a4cd93c244e9c7baddf0208f0b
+      internalID: 1476951138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sci_fi_lab_Background_296
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb65cf923b78749a4bd3b4f14fbf4d
+      internalID: 968404865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      background-lab: 1562446747
+      sci_fi_lab_Background_0: 937137143
+      sci_fi_lab_Background_1: -266787881
+      sci_fi_lab_Background_10: -1113597050
+      sci_fi_lab_Background_100: 2021940566
+      sci_fi_lab_Background_101: -328992425
+      sci_fi_lab_Background_102: -888346306
+      sci_fi_lab_Background_103: 296348312
+      sci_fi_lab_Background_104: 509564397
+      sci_fi_lab_Background_105: 2581420
+      sci_fi_lab_Background_106: 1529360368
+      sci_fi_lab_Background_107: -1231816739
+      sci_fi_lab_Background_108: -547270347
+      sci_fi_lab_Background_109: -1294817006
+      sci_fi_lab_Background_11: -1199374841
+      sci_fi_lab_Background_110: 1606862072
+      sci_fi_lab_Background_111: -1464423542
+      sci_fi_lab_Background_112: 1167477278
+      sci_fi_lab_Background_113: 1874102478
+      sci_fi_lab_Background_114: 568099434
+      sci_fi_lab_Background_115: 442856315
+      sci_fi_lab_Background_116: -1912457777
+      sci_fi_lab_Background_117: -787505770
+      sci_fi_lab_Background_118: -1858099195
+      sci_fi_lab_Background_119: -166621131
+      sci_fi_lab_Background_12: -2097377972
+      sci_fi_lab_Background_120: -140387659
+      sci_fi_lab_Background_121: -236885868
+      sci_fi_lab_Background_122: -695312542
+      sci_fi_lab_Background_123: 643704341
+      sci_fi_lab_Background_124: -892874143
+      sci_fi_lab_Background_125: -271624104
+      sci_fi_lab_Background_126: -437462284
+      sci_fi_lab_Background_127: -1710968395
+      sci_fi_lab_Background_128: -2017720322
+      sci_fi_lab_Background_129: 360921420
+      sci_fi_lab_Background_13: -2081281050
+      sci_fi_lab_Background_130: 180922191
+      sci_fi_lab_Background_131: -345906124
+      sci_fi_lab_Background_132: -1874988350
+      sci_fi_lab_Background_133: -1434864560
+      sci_fi_lab_Background_134: -1284503870
+      sci_fi_lab_Background_135: -1107429174
+      sci_fi_lab_Background_136: 1089330968
+      sci_fi_lab_Background_137: 895987863
+      sci_fi_lab_Background_138: -1344316310
+      sci_fi_lab_Background_139: -2002592497
+      sci_fi_lab_Background_14: -716171332
+      sci_fi_lab_Background_140: 490506846
+      sci_fi_lab_Background_141: 694450321
+      sci_fi_lab_Background_142: 1908266798
+      sci_fi_lab_Background_143: 19588408
+      sci_fi_lab_Background_144: 622701527
+      sci_fi_lab_Background_145: 2026032068
+      sci_fi_lab_Background_146: 918427061
+      sci_fi_lab_Background_147: -1927711113
+      sci_fi_lab_Background_148: 917040214
+      sci_fi_lab_Background_149: -368092909
+      sci_fi_lab_Background_15: -368189597
+      sci_fi_lab_Background_150: -1139744888
+      sci_fi_lab_Background_151: 1554741358
+      sci_fi_lab_Background_152: -1397630011
+      sci_fi_lab_Background_153: -1096207431
+      sci_fi_lab_Background_154: -2060129605
+      sci_fi_lab_Background_155: -47499170
+      sci_fi_lab_Background_156: -210227855
+      sci_fi_lab_Background_157: -842831993
+      sci_fi_lab_Background_158: 1690808604
+      sci_fi_lab_Background_159: 1331273925
+      sci_fi_lab_Background_16: 1837387376
+      sci_fi_lab_Background_160: 1811275292
+      sci_fi_lab_Background_161: -711154190
+      sci_fi_lab_Background_162: 1445038213
+      sci_fi_lab_Background_163: -481886797
+      sci_fi_lab_Background_164: -613987502
+      sci_fi_lab_Background_165: -1201999090
+      sci_fi_lab_Background_166: 583883276
+      sci_fi_lab_Background_167: 798160563
+      sci_fi_lab_Background_168: -632192006
+      sci_fi_lab_Background_169: 1928316427
+      sci_fi_lab_Background_17: -351724641
+      sci_fi_lab_Background_170: -2066372228
+      sci_fi_lab_Background_171: -101970708
+      sci_fi_lab_Background_172: 1339586582
+      sci_fi_lab_Background_173: -1297517495
+      sci_fi_lab_Background_174: 129564970
+      sci_fi_lab_Background_175: -215663469
+      sci_fi_lab_Background_176: -1080259445
+      sci_fi_lab_Background_177: 279941389
+      sci_fi_lab_Background_178: 2107494248
+      sci_fi_lab_Background_179: -1529555363
+      sci_fi_lab_Background_18: 1055291249
+      sci_fi_lab_Background_180: -1361899088
+      sci_fi_lab_Background_181: 21753495
+      sci_fi_lab_Background_182: 1454447296
+      sci_fi_lab_Background_183: -1393552385
+      sci_fi_lab_Background_184: 384623479
+      sci_fi_lab_Background_185: -1982584805
+      sci_fi_lab_Background_186: -410197301
+      sci_fi_lab_Background_187: 1121905213
+      sci_fi_lab_Background_188: 1936317646
+      sci_fi_lab_Background_189: -1340908477
+      sci_fi_lab_Background_19: 2116847572
+      sci_fi_lab_Background_190: 519674143
+      sci_fi_lab_Background_191: -235151009
+      sci_fi_lab_Background_192: 466405042
+      sci_fi_lab_Background_193: 319474718
+      sci_fi_lab_Background_194: -47461673
+      sci_fi_lab_Background_195: 881752331
+      sci_fi_lab_Background_196: -176353459
+      sci_fi_lab_Background_197: 298996945
+      sci_fi_lab_Background_198: 1237074813
+      sci_fi_lab_Background_199: 1740692556
+      sci_fi_lab_Background_2: -2090751858
+      sci_fi_lab_Background_20: -1909959589
+      sci_fi_lab_Background_200: -2072230966
+      sci_fi_lab_Background_201: 1112878526
+      sci_fi_lab_Background_202: -1726878845
+      sci_fi_lab_Background_203: -1748405824
+      sci_fi_lab_Background_204: 1827693702
+      sci_fi_lab_Background_205: -1547116876
+      sci_fi_lab_Background_206: 264102058
+      sci_fi_lab_Background_207: 769156112
+      sci_fi_lab_Background_208: -1573808890
+      sci_fi_lab_Background_209: 1799918292
+      sci_fi_lab_Background_21: -1813407716
+      sci_fi_lab_Background_210: 583168262
+      sci_fi_lab_Background_211: -396187564
+      sci_fi_lab_Background_212: 1956665039
+      sci_fi_lab_Background_213: -351997916
+      sci_fi_lab_Background_214: 358403176
+      sci_fi_lab_Background_215: -1900452183
+      sci_fi_lab_Background_216: 109329310
+      sci_fi_lab_Background_217: -645950502
+      sci_fi_lab_Background_218: 24295381
+      sci_fi_lab_Background_219: -2069012333
+      sci_fi_lab_Background_22: 1167678083
+      sci_fi_lab_Background_221: 203597367
+      sci_fi_lab_Background_222: 1240833291
+      sci_fi_lab_Background_224: 287576074
+      sci_fi_lab_Background_225: -2038682076
+      sci_fi_lab_Background_226: 1240160381
+      sci_fi_lab_Background_227: -1102327197
+      sci_fi_lab_Background_228: 1896799457
+      sci_fi_lab_Background_229: 415501423
+      sci_fi_lab_Background_23: -1203941791
+      sci_fi_lab_Background_230: -1417098475
+      sci_fi_lab_Background_231: -1716779901
+      sci_fi_lab_Background_232: 1937098234
+      sci_fi_lab_Background_233: -618730289
+      sci_fi_lab_Background_234: -894202974
+      sci_fi_lab_Background_235: 1201465785
+      sci_fi_lab_Background_236: -1932251532
+      sci_fi_lab_Background_237: -2130592942
+      sci_fi_lab_Background_238: 1675242367
+      sci_fi_lab_Background_239: -1150394854
+      sci_fi_lab_Background_24: -1318419372
+      sci_fi_lab_Background_240: 1817996213
+      sci_fi_lab_Background_241: 1237733203
+      sci_fi_lab_Background_242: 107453155
+      sci_fi_lab_Background_243: 1442344294
+      sci_fi_lab_Background_244: -1468714134
+      sci_fi_lab_Background_245: 236971663
+      sci_fi_lab_Background_246: -135279322
+      sci_fi_lab_Background_247: 771537266
+      sci_fi_lab_Background_248: -497984004
+      sci_fi_lab_Background_249: -217661272
+      sci_fi_lab_Background_25: 1662850794
+      sci_fi_lab_Background_250: -764059280
+      sci_fi_lab_Background_251: 519631832
+      sci_fi_lab_Background_252: -1598980470
+      sci_fi_lab_Background_253: -828777520
+      sci_fi_lab_Background_254: -420513227
+      sci_fi_lab_Background_255: 1604642700
+      sci_fi_lab_Background_256: -408551690
+      sci_fi_lab_Background_257: -1704134650
+      sci_fi_lab_Background_258: 175300286
+      sci_fi_lab_Background_259: -2145091912
+      sci_fi_lab_Background_26: 1813708077
+      sci_fi_lab_Background_260: -1290497460
+      sci_fi_lab_Background_261: 1847601546
+      sci_fi_lab_Background_262: -768160134
+      sci_fi_lab_Background_263: -1491320087
+      sci_fi_lab_Background_264: 1342847276
+      sci_fi_lab_Background_265: 2078267943
+      sci_fi_lab_Background_266: -328436993
+      sci_fi_lab_Background_267: 1805928776
+      sci_fi_lab_Background_268: -1111425527
+      sci_fi_lab_Background_269: -966742141
+      sci_fi_lab_Background_27: 582569811
+      sci_fi_lab_Background_270: -942748969
+      sci_fi_lab_Background_271: -354126612
+      sci_fi_lab_Background_272: -684977488
+      sci_fi_lab_Background_273: 1643672674
+      sci_fi_lab_Background_274: 1283008854
+      sci_fi_lab_Background_275: -605671771
+      sci_fi_lab_Background_276: -1206922803
+      sci_fi_lab_Background_277: -833045702
+      sci_fi_lab_Background_278: 73383271
+      sci_fi_lab_Background_279: 1554683624
+      sci_fi_lab_Background_28: 1736036965
+      sci_fi_lab_Background_280: 1638459350
+      sci_fi_lab_Background_281: -33766928
+      sci_fi_lab_Background_282: -2140444378
+      sci_fi_lab_Background_283: 122699881
+      sci_fi_lab_Background_284: -2043321444
+      sci_fi_lab_Background_285: -993749872
+      sci_fi_lab_Background_286: -666346682
+      sci_fi_lab_Background_287: 1979448941
+      sci_fi_lab_Background_288: 1813850968
+      sci_fi_lab_Background_289: 1748349125
+      sci_fi_lab_Background_29: 2063257136
+      sci_fi_lab_Background_290: -1865693675
+      sci_fi_lab_Background_291: 1310325316
+      sci_fi_lab_Background_292: -869426646
+      sci_fi_lab_Background_293: 1074016318
+      sci_fi_lab_Background_294: 622455
+      sci_fi_lab_Background_295: 1476951138
+      sci_fi_lab_Background_296: 968404865
+      sci_fi_lab_Background_297: 1818857192
+      sci_fi_lab_Background_298: 2139600337
+      sci_fi_lab_Background_299: -202868489
+      sci_fi_lab_Background_3: -720565463
+      sci_fi_lab_Background_30: 639454677
+      sci_fi_lab_Background_31: -1437981105
+      sci_fi_lab_Background_32: 1226101530
+      sci_fi_lab_Background_33: 1964168477
+      sci_fi_lab_Background_34: 697647613
+      sci_fi_lab_Background_35: -160789148
+      sci_fi_lab_Background_36: 1889083806
+      sci_fi_lab_Background_37: 118675101
+      sci_fi_lab_Background_38: 374745418
+      sci_fi_lab_Background_39: -790032736
+      sci_fi_lab_Background_4: 1845280265
+      sci_fi_lab_Background_40: 353507041
+      sci_fi_lab_Background_41: -1623849310
+      sci_fi_lab_Background_42: -1888364425
+      sci_fi_lab_Background_43: 427601511
+      sci_fi_lab_Background_44: -244392531
+      sci_fi_lab_Background_45: 93427652
+      sci_fi_lab_Background_46: -1879026078
+      sci_fi_lab_Background_47: 831399803
+      sci_fi_lab_Background_48: 677040609
+      sci_fi_lab_Background_49: 1817298763
+      sci_fi_lab_Background_5: 1854937365
+      sci_fi_lab_Background_50: 897271371
+      sci_fi_lab_Background_51: -920319287
+      sci_fi_lab_Background_52: 650839185
+      sci_fi_lab_Background_53: 281510702
+      sci_fi_lab_Background_54: 1202279435
+      sci_fi_lab_Background_55: -1419614013
+      sci_fi_lab_Background_56: -1962438771
+      sci_fi_lab_Background_57: -1866567026
+      sci_fi_lab_Background_58: -301069206
+      sci_fi_lab_Background_59: 1450013696
+      sci_fi_lab_Background_6: -1425004223
+      sci_fi_lab_Background_60: -764324147
+      sci_fi_lab_Background_61: -2083244376
+      sci_fi_lab_Background_62: -1400172953
+      sci_fi_lab_Background_63: -1196307740
+      sci_fi_lab_Background_64: 387994136
+      sci_fi_lab_Background_65: -288277458
+      sci_fi_lab_Background_66: 1803451067
+      sci_fi_lab_Background_67: -23806976
+      sci_fi_lab_Background_68: 1122863065
+      sci_fi_lab_Background_69: 1957897169
+      sci_fi_lab_Background_7: -1189010891
+      sci_fi_lab_Background_70: -1777984278
+      sci_fi_lab_Background_71: -744592346
+      sci_fi_lab_Background_72: -2134658647
+      sci_fi_lab_Background_73: -1091707735
+      sci_fi_lab_Background_74: 1479368225
+      sci_fi_lab_Background_75: -1551153440
+      sci_fi_lab_Background_76: -840648482
+      sci_fi_lab_Background_77: 1651557483
+      sci_fi_lab_Background_78: 378772766
+      sci_fi_lab_Background_79: -1846285455
+      sci_fi_lab_Background_8: 2104549072
+      sci_fi_lab_Background_80: 1455228884
+      sci_fi_lab_Background_81: 1433063787
+      sci_fi_lab_Background_82: -1632064053
+      sci_fi_lab_Background_83: -1221347667
+      sci_fi_lab_Background_84: 82301307
+      sci_fi_lab_Background_85: 1394234880
+      sci_fi_lab_Background_86: -1936670109
+      sci_fi_lab_Background_87: -273695007
+      sci_fi_lab_Background_88: 916945779
+      sci_fi_lab_Background_89: -126766956
+      sci_fi_lab_Background_9: -353221915
+      sci_fi_lab_Background_90: -1200413703
+      sci_fi_lab_Background_91: 696663994
+      sci_fi_lab_Background_92: -957287021
+      sci_fi_lab_Background_93: 944502975
+      sci_fi_lab_Background_94: -2042617977
+      sci_fi_lab_Background_95: -787996322
+      sci_fi_lab_Background_96: 506271968
+      sci_fi_lab_Background_97: -1700270196
+      sci_fi_lab_Background_98: -438642225
+      sci_fi_lab_Background_99: -1572726356
+      tube: -752241829
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

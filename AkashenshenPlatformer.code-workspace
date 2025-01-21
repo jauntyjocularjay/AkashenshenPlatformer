@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Assets/Scripts"
+		},
+		{
+			"path": "Assets/2d-platformer-controller"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "AkashenshenPlatformer.sln"
+	}
+}

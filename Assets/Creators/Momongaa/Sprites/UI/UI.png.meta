@@ -1,0 +1,1726 @@
+fileFormatVersion: 2
+guid: 98ed12b75617fb9498f275b7fa85d843
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 308
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91aae358785a84ab727ef66bf36038
+      internalID: -43682610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 300
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1442c5ec7afe439f8e9a9c7eea61a
+      internalID: 145548994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 292
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c2f448b70a3824cbb7575a737daa97
+      internalID: 1610544902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_100
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a220f55537aaf4e9fb9487ca6bc5b9
+      internalID: -465914439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a797496b3c8d6340ace3527e668b396
+      internalID: -1843872183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 292
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b044b359a1c663e41bdd890c3ede7af4
+      internalID: -1024961469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_171
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 276
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aecaf72a1d2d76419c997b76f3fd779
+      internalID: 17885963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_206
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 268
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be77c345265ba0e45bd2d62988f6cbcc
+      internalID: -937379996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760c4dca4e19e84e92e0dc74715adde
+      internalID: -1424468393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 260
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6582f6156b1940af1bb229383c61f
+      internalID: -1665770492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_264
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 260
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1bc80dad12a0842ac07c4a3995a57a
+      internalID: 1589644066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_266
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 260
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f485106be0906a47b87bc19ea0b2f45
+      internalID: -302703985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_295
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 244
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d5a9de783e1804d868d7e5e13a3027
+      internalID: 1204073585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_355
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 228
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90efd07347be343aa49a4cacacf29c
+      internalID: 1176546255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_381
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de132cdad14f6e44d9bbe82bedf2b376
+      internalID: 926759707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_408
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 222
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb55380747dc2d4abed92296ee18941
+      internalID: 1428994979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_410
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 212
+        width: 64
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1c9a833272d4b419cac04d720601f7
+      internalID: -2050474412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_462
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f2e56e90a9fa44a8ecc15778decbac
+      internalID: 1589172608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_465
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f301078b3460f34591032a6a82fa5d0
+      internalID: 1127069355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_468
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f367d9853b23ffd4593a70cb0c0bd3d3
+      internalID: -1995818543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_485
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 192
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813751a7bc921b44ca933abc6131d93f
+      internalID: 246906281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_489
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedec2b84c22a6c4e95f848ae46a0b72
+      internalID: -1266829005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_545
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 176
+        width: 24
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cc39a84a2af3c44b1371b526586d48
+      internalID: 1670148256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_549
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 176
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9481c16043b454cbdfa66fcbf61f61
+      internalID: 2123089977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_591
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87509e8573d00554abf003d7d743dd28
+      internalID: 1457294200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_593
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12dc56ddde78b4468f599107e0355da
+      internalID: -153886505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_609
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1682c64c6b932a8478e9942661853179
+      internalID: -23007954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_611
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 80
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f83207f555020c4d94327e66acf0f39
+      internalID: 1402242860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_612
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 155
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3176608ef905b47adf5ae5f14a2304
+      internalID: -1040106426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_647
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 148
+        width: 128
+        height: 172
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb749818e7ef3584e95fa65091a7bd38
+      internalID: 86684910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_661
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf25dd334acbf94083c886a86523fe0
+      internalID: 521132686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_675
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 128
+        width: 40
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e30a8be8be845249b463534c0148ea9
+      internalID: 1155270724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_682
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 128
+        width: 40
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3ba3941c3fd4f4abecf85de88d448c
+      internalID: -2020156394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_691
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 116
+        width: 24
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f258762925d9027489ae18d0027443eb
+      internalID: -1399298047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_711
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 24
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa76e217024b42c469fa927e40052dfc
+      internalID: 283048249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_733
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 84
+        width: 32
+        height: 8
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b610109d9bf1d47af181f92bc2292b
+      internalID: -2090240134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_737
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 80
+        width: 8
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f9c6892802a6d4683d94204b768a8e
+      internalID: -923826588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_745
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 40
+        height: 48
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e6dc9f59d5224b96e442e8f62c207
+      internalID: 478450433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_746
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 78
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257fab12b71e84c4bb6918cd8cb98cab
+      internalID: -1999800538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_0: -1751596894
+      UI_1: 1372916029
+      UI_10: -551281591
+      UI_100: -465914439
+      UI_101: 821165074
+      UI_102: 1319480532
+      UI_103: 94593605
+      UI_104: -1843872183
+      UI_105: 1763528986
+      UI_106: -822203555
+      UI_107: -1739863847
+      UI_108: -1024961469
+      UI_109: -1597500721
+      UI_11: -1261002637
+      UI_110: -744653722
+      UI_111: 64113976
+      UI_112: -748196153
+      UI_113: -274726234
+      UI_114: -75103114
+      UI_115: -1982619613
+      UI_116: 1867536369
+      UI_117: -2093091697
+      UI_118: -392986484
+      UI_119: 1426374992
+      UI_12: 1420508919
+      UI_120: 1052222743
+      UI_121: 1448353410
+      UI_122: 54312056
+      UI_123: -2089363688
+      UI_124: -1545918105
+      UI_125: 1582620580
+      UI_126: -433833071
+      UI_127: 51458254
+      UI_128: -493989647
+      UI_129: -1303857765
+      UI_13: -488038263
+      UI_130: 1831745348
+      UI_131: 675375462
+      UI_132: -34763668
+      UI_133: 6720632
+      UI_134: 1767848539
+      UI_135: 390458600
+      UI_136: 266805118
+      UI_137: -1856599557
+      UI_138: 1901617723
+      UI_139: 1452794890
+      UI_14: -711357628
+      UI_140: -1430359771
+      UI_141: -731335335
+      UI_142: -693965326
+      UI_143: 2087970978
+      UI_144: 667305682
+      UI_145: -1467100656
+      UI_146: 1972917865
+      UI_147: -200568114
+      UI_148: -1285698639
+      UI_149: -2126058656
+      UI_15: 1549065345
+      UI_150: -1626226933
+      UI_151: -119345990
+      UI_152: -1847584835
+      UI_153: 1195543186
+      UI_154: 1160430993
+      UI_155: -1493325598
+      UI_156: 2093578436
+      UI_157: 1352536138
+      UI_158: 1077858060
+      UI_159: -657906477
+      UI_16: -1002083182
+      UI_160: 280528918
+      UI_161: 1974786737
+      UI_162: -15640721
+      UI_163: 542722060
+      UI_164: 1377197595
+      UI_165: -1841198080
+      UI_166: -433675102
+      UI_167: -758409700
+      UI_168: -1805991013
+      UI_169: 643822858
+      UI_17: 908325345
+      UI_170: -1210723614
+      UI_171: 17885963
+      UI_172: -981098956
+      UI_173: 454433940
+      UI_174: -241388030
+      UI_175: 2119264927
+      UI_176: 628902815
+      UI_177: 830392868
+      UI_178: -2031880116
+      UI_179: -537199443
+      UI_18: -1414354949
+      UI_180: 1797930885
+      UI_181: 1706856921
+      UI_182: 500266001
+      UI_183: -692577994
+      UI_184: -1812095567
+      UI_185: -827682924
+      UI_186: 1611252561
+      UI_187: 2114201173
+      UI_188: -659061036
+      UI_189: -1203115762
+      UI_19: -1840105241
+      UI_190: 156329323
+      UI_191: 1269118056
+      UI_192: 1808700253
+      UI_193: 571894773
+      UI_194: -1700912364
+      UI_195: -1628341695
+      UI_196: -1069035597
+      UI_197: -1583621201
+      UI_198: 1070555193
+      UI_199: -1354937556
+      UI_2: 1543486355
+      UI_20: -1653764221
+      UI_200: 1700373532
+      UI_201: 1130966863
+      UI_202: 474734948
+      UI_203: -846245387
+      UI_204: -560361092
+      UI_205: 2064341297
+      UI_206: -937379996
+      UI_207: -1438993599
+      UI_208: 1332721167
+      UI_209: -795029882
+      UI_21: -460269476
+      UI_210: -191300852
+      UI_211: 1530742620
+      UI_212: -1172662782
+      UI_213: -634388481
+      UI_214: 1368976599
+      UI_215: -326852186
+      UI_216: -357751395
+      UI_217: 1290241862
+      UI_218: 878728382
+      UI_219: 188851499
+      UI_22: 455919243
+      UI_220: 1542450918
+      UI_221: 100706224
+      UI_222: -192609634
+      UI_223: 1666744709
+      UI_224: -1643109442
+      UI_225: 1303357200
+      UI_226: 2080829815
+      UI_227: 444452857
+      UI_228: 689373769
+      UI_229: -1977580960
+      UI_23: 1064736163
+      UI_230: 1313225375
+      UI_231: -291445647
+      UI_232: -1368972075
+      UI_233: -1466249264
+      UI_234: 109897570
+      UI_235: -1800799044
+      UI_236: -883305475
+      UI_237: -1424468393
+      UI_238: 446143694
+      UI_239: 1763976154
+      UI_24: 1094867128
+      UI_240: -1938449769
+      UI_241: -1665770492
+      UI_242: -27322258
+      UI_243: 821883964
+      UI_244: -807855714
+      UI_245: -1860603096
+      UI_246: -1084435103
+      UI_247: -729040985
+      UI_248: 382715576
+      UI_249: -1550031772
+      UI_25: 2054755407
+      UI_250: -1485394117
+      UI_251: -1055017801
+      UI_252: -2086242912
+      UI_253: 1740835342
+      UI_254: -1611053024
+      UI_255: -93440611
+      UI_256: -1424426297
+      UI_257: -2066187323
+      UI_258: 1647201159
+      UI_259: -1852419051
+      UI_26: 1148536486
+      UI_260: 1816219152
+      UI_261: -381342731
+      UI_262: -1867497004
+      UI_263: -1279138777
+      UI_264: 1589644066
+      UI_265: -2128902021
+      UI_266: -302703985
+      UI_267: 933366955
+      UI_268: -75193743
+      UI_269: -1267858406
+      UI_27: -903812618
+      UI_270: -1870105321
+      UI_271: 1188254604
+      UI_272: 1075962183
+      UI_273: 1145132370
+      UI_274: 1017414114
+      UI_275: -1014450534
+      UI_276: -1035285103
+      UI_277: 439880622
+      UI_278: 799017222
+      UI_279: -1270189435
+      UI_28: 23489743
+      UI_280: -181022536
+      UI_281: 1032043854
+      UI_282: -47907584
+      UI_283: -122471276
+      UI_284: -1547297534
+      UI_285: -1203362006
+      UI_286: 1343268278
+      UI_287: -1890972845
+      UI_288: -2105926833
+      UI_289: -581611661
+      UI_29: 2118358827
+      UI_290: -662436425
+      UI_291: 714368499
+      UI_292: 1211500733
+      UI_293: -1801263891
+      UI_294: -18741965
+      UI_295: 1204073585
+      UI_296: 1644881009
+      UI_297: -912279431
+      UI_298: 409221178
+      UI_299: 2024974412
+      UI_3: -430221499
+      UI_30: -1991545912
+      UI_300: 1519652352
+      UI_301: 481730275
+      UI_302: 95502122
+      UI_303: 1693501265
+      UI_304: -414558409
+      UI_305: 1305712986
+      UI_306: -1421936487
+      UI_307: -738825520
+      UI_308: 576763781
+      UI_309: 1357774177
+      UI_31: 243375887
+      UI_310: 1200561834
+      UI_311: 1732945634
+      UI_312: 1529903563
+      UI_313: -340157001
+      UI_314: -823478761
+      UI_315: 1337515573
+      UI_316: 378237461
+      UI_317: -1499946087
+      UI_318: -1613194526
+      UI_319: -226161148
+      UI_32: 914357619
+      UI_320: -1544342872
+      UI_321: 570716568
+      UI_322: 872885766
+      UI_323: 353130789
+      UI_324: 1623892385
+      UI_325: -2063209490
+      UI_326: -730090350
+      UI_327: 229053892
+      UI_328: 734541750
+      UI_329: 1229232042
+      UI_33: 1478777398
+      UI_330: -291558745
+      UI_331: 931357868
+      UI_332: -189412101
+      UI_333: -1664967094
+      UI_334: 1963447299
+      UI_335: -262984050
+      UI_336: -1323868463
+      UI_337: 1858054093
+      UI_338: -479136445
+      UI_339: 65898864
+      UI_34: 1743019679
+      UI_340: -1640939194
+      UI_341: 58532211
+      UI_342: 2078513864
+      UI_343: -832522133
+      UI_344: 1752852569
+      UI_345: 862537204
+      UI_346: -1551393383
+      UI_347: 152543279
+      UI_348: -771600774
+      UI_349: 2011235102
+      UI_35: 387631305
+      UI_350: -1376028498
+      UI_351: 1426261531
+      UI_352: -527284785
+      UI_353: -1698836021
+      UI_354: -332017739
+      UI_355: 1176546255
+      UI_356: -2030486581
+      UI_357: -840598443
+      UI_358: -1170271546
+      UI_359: -1612699108
+      UI_36: -43682610
+      UI_360: 427171969
+      UI_361: -1436138611
+      UI_362: -1617012122
+      UI_363: 628352744
+      UI_364: -879373470
+      UI_365: 8297346
+      UI_366: 519543605
+      UI_367: 1271185032
+      UI_368: 382814015
+      UI_369: 1721692495
+      UI_37: -184100476
+      UI_370: -1993533668
+      UI_371: 1819285298
+      UI_372: -744610548
+      UI_373: -367939844
+      UI_374: -1021789822
+      UI_375: 1469246820
+      UI_376: -1193980830
+      UI_377: -1776760694
+      UI_378: 1446845848
+      UI_379: -1972277290
+      UI_38: 1762031963
+      UI_380: -1874107739
+      UI_381: 926759707
+      UI_382: 1536454607
+      UI_383: 1476598967
+      UI_384: -1790836784
+      UI_385: 2018186181
+      UI_386: -644466714
+      UI_387: 267692508
+      UI_388: -388089098
+      UI_389: -1710662781
+      UI_39: -2021423558
+      UI_390: -1847702929
+      UI_391: 323629955
+      UI_392: 1105624974
+      UI_393: -1298438942
+      UI_394: -913548127
+      UI_395: 256255239
+      UI_396: -698462593
+      UI_397: -535348465
+      UI_398: 450839001
+      UI_399: 971951650
+      UI_4: 27775241
+      UI_40: -563746203
+      UI_400: -316025676
+      UI_401: 1800286798
+      UI_402: -873605741
+      UI_403: -1701703039
+      UI_404: -141890085
+      UI_405: -968283710
+      UI_406: -564790142
+      UI_407: -723610673
+      UI_408: 1428994979
+      UI_409: 1910193283
+      UI_41: -1350585115
+      UI_410: -2050474412
+      UI_411: 822618294
+      UI_412: 1432520783
+      UI_413: -132561106
+      UI_414: -787130562
+      UI_415: 1735808681
+      UI_416: 1803285339
+      UI_417: 400236283
+      UI_418: 2107813381
+      UI_419: -98643479
+      UI_42: 627387545
+      UI_420: -786175274
+      UI_421: 883577962
+      UI_422: 1065786078
+      UI_423: 1161197232
+      UI_424: -2023743851
+      UI_425: 1083906757
+      UI_426: -151268282
+      UI_427: 1118624893
+      UI_428: 1693089582
+      UI_429: 1609973628
+      UI_43: 836781631
+      UI_430: 438306878
+      UI_431: 127234994
+      UI_432: -194338904
+      UI_433: -1356006795
+      UI_434: -2142958520
+      UI_435: 93545087
+      UI_436: 1346990985
+      UI_437: 431554091
+      UI_438: -1731045916
+      UI_439: 1438240607
+      UI_44: -1392742095
+      UI_440: 1460731652
+      UI_441: -558903712
+      UI_442: 418623216
+      UI_443: -783431796
+      UI_444: 336452381
+      UI_445: -1258560084
+      UI_446: -1567299554
+      UI_447: -767505990
+      UI_448: 1338750729
+      UI_449: -1076924027
+      UI_45: -1427579393
+      UI_450: -45338186
+      UI_451: 777241244
+      UI_452: -579479663
+      UI_453: -754899495
+      UI_454: 357505475
+      UI_455: 901215927
+      UI_456: -967198382
+      UI_457: 2049292991
+      UI_458: -1753450342
+      UI_459: -225939311
+      UI_46: 1926771657
+      UI_460: 1380775514
+      UI_461: 1711442880
+      UI_462: 1589172608
+      UI_463: -1281045001
+      UI_464: -2099054028
+      UI_465: 1127069355
+      UI_466: 1803797984
+      UI_467: -1380225574
+      UI_468: -1995818543
+      UI_469: 769285271
+      UI_47: -420931587
+      UI_470: 1228733167
+      UI_471: -1800241795
+      UI_472: -630350160
+      UI_473: 2071596636
+      UI_474: -1566049164
+      UI_475: -1153914953
+      UI_476: 444564514
+      UI_477: 409144668
+      UI_478: 1824537434
+      UI_479: -1337427927
+      UI_48: 616075679
+      UI_480: -88534210
+      UI_481: 312346845
+      UI_482: -37449249
+      UI_483: -576702198
+      UI_484: -1152436514
+      UI_485: 246906281
+      UI_486: -1189862646
+      UI_487: -691970721
+      UI_488: -1382659771
+      UI_489: -1266829005
+      UI_49: 2124650939
+      UI_490: -1800153795
+      UI_491: -1782071724
+      UI_492: 80051781
+      UI_493: -535306796
+      UI_494: 2144196885
+      UI_495: 1309271556
+      UI_496: 1756531104
+      UI_497: 152064953
+      UI_498: 172411549
+      UI_499: -2135495102
+      UI_5: -1543556406
+      UI_50: 98869562
+      UI_500: -370038631
+      UI_501: 1472601583
+      UI_502: 276432711
+      UI_503: -1403857227
+      UI_504: -479771803
+      UI_505: -1845963237
+      UI_506: -935736636
+      UI_507: 505428103
+      UI_508: 1021187258
+      UI_509: -1571074274
+      UI_51: 651174067
+      UI_510: -238904670
+      UI_511: -237857491
+      UI_512: -1107032164
+      UI_513: -1374773481
+      UI_514: 637065028
+      UI_515: 589304728
+      UI_516: 1913278687
+      UI_517: -1308630714
+      UI_518: -308073153
+      UI_519: -66252571
+      UI_52: 1542489094
+      UI_520: -1837841574
+      UI_521: -1210601289
+      UI_522: -808186848
+      UI_523: -1069252283
+      UI_524: -1007530810
+      UI_525: 1785354624
+      UI_526: 1051278246
+      UI_527: 1463721358
+      UI_528: 1485891615
+      UI_529: -1022108182
+      UI_53: 724875654
+      UI_530: -2080555627
+      UI_531: -207208031
+      UI_532: 1650560820
+      UI_533: -1168533553
+      UI_534: 1128282972
+      UI_535: 800668221
+      UI_536: -937286381
+      UI_537: -1428545321
+      UI_538: 606049308
+      UI_539: 408516156
+      UI_54: 1843296585
+      UI_540: -1885098541
+      UI_541: -764349893
+      UI_542: 928455294
+      UI_543: -1370943852
+      UI_544: 929446650
+      UI_545: 1670148256
+      UI_546: -305857206
+      UI_547: -587505045
+      UI_548: -1331059892
+      UI_549: 2123089977
+      UI_55: -455298718
+      UI_550: 1083857901
+      UI_551: -668270088
+      UI_552: 443390854
+      UI_553: 1529819672
+      UI_554: 549443377
+      UI_555: 1521537238
+      UI_556: 1651116375
+      UI_557: 567290050
+      UI_558: 1648458486
+      UI_559: 1562115620
+      UI_56: -1409475013
+      UI_560: 1398718678
+      UI_561: 1177713215
+      UI_562: 2035111125
+      UI_563: 162781478
+      UI_564: -481751689
+      UI_565: -186501057
+      UI_566: -633828609
+      UI_567: 260193861
+      UI_568: 937103203
+      UI_569: 26779572
+      UI_57: 1190484970
+      UI_570: -1419623369
+      UI_571: 435027948
+      UI_572: -195776812
+      UI_573: -2106892801
+      UI_574: -707019873
+      UI_575: -1146016267
+      UI_576: 1752523636
+      UI_577: 1073394519
+      UI_578: 1254939798
+      UI_579: 797650930
+      UI_58: 94274682
+      UI_580: 2069359189
+      UI_581: -28471922
+      UI_582: 577603069
+      UI_583: 418551975
+      UI_584: 1775202875
+      UI_585: 36352594
+      UI_586: 1982045382
+      UI_587: -2028815682
+      UI_588: 687066499
+      UI_589: -1619522742
+      UI_59: -804844340
+      UI_590: 1559435969
+      UI_591: 1457294200
+      UI_592: 180466526
+      UI_593: -153886505
+      UI_594: -186451550
+      UI_595: -1998414912
+      UI_596: -53908104
+      UI_597: 151040835
+      UI_598: -92014262
+      UI_599: -491304123
+      UI_6: 1617468825
+      UI_60: -461390718
+      UI_600: 1398661951
+      UI_601: -236301012
+      UI_602: -619223003
+      UI_603: -1209817964
+      UI_604: 1731484050
+      UI_605: -2033618830
+      UI_606: -349922759
+      UI_607: -349613731
+      UI_608: 1259447467
+      UI_609: -23007954
+      UI_61: 1271657508
+      UI_610: -1452526853
+      UI_611: 1402242860
+      UI_612: -1040106426
+      UI_613: 839838575
+      UI_614: -245350793
+      UI_615: 204291786
+      UI_616: 1132532711
+      UI_617: 734486091
+      UI_618: 2077575351
+      UI_619: 844271123
+      UI_62: 254075743
+      UI_620: -67938411
+      UI_621: 1301357612
+      UI_622: 839732834
+      UI_623: 1514723306
+      UI_624: 538022759
+      UI_625: 873288356
+      UI_626: -1202383004
+      UI_627: -1195890965
+      UI_628: -1648399038
+      UI_629: -151759924
+      UI_63: -1009530421
+      UI_630: 1071315767
+      UI_631: 98884385
+      UI_632: -544775614
+      UI_633: -684211898
+      UI_634: 785549351
+      UI_635: -1369689578
+      UI_636: 920720439
+      UI_637: 1831084636
+      UI_638: -2027530648
+      UI_639: -1840047355
+      UI_64: -252530842
+      UI_640: -632409221
+      UI_641: 1504839706
+      UI_642: 521627314
+      UI_643: -1066673254
+      UI_644: -1497166344
+      UI_645: 798597902
+      UI_646: 1833331587
+      UI_647: 86684910
+      UI_648: -347276099
+      UI_649: 2001566473
+      UI_65: -856251154
+      UI_650: -1098777918
+      UI_651: -281645094
+      UI_652: 1831617858
+      UI_653: 1479983963
+      UI_654: 1303298084
+      UI_655: 1822906216
+      UI_656: -1093374894
+      UI_657: -1532055876
+      UI_658: -1026193116
+      UI_659: -527212202
+      UI_66: 1093982279
+      UI_660: -871958308
+      UI_661: 521132686
+      UI_662: 385727338
+      UI_663: 70122093
+      UI_664: -1446080624
+      UI_665: 1110475796
+      UI_666: -683575796
+      UI_667: -1461770256
+      UI_668: -1713448770
+      UI_669: -887244602
+      UI_67: 1586345336
+      UI_670: -1853301329
+      UI_671: -2142926306
+      UI_672: -1797774839
+      UI_673: 825219273
+      UI_674: -1907121727
+      UI_675: 1155270724
+      UI_676: 1302639206
+      UI_677: 1170256344
+      UI_678: -1748520179
+      UI_679: 1121112778
+      UI_68: 1469436477
+      UI_680: -1609453243
+      UI_681: -613833266
+      UI_682: -2020156394
+      UI_683: 923771584
+      UI_684: -312435446
+      UI_685: -207986553
+      UI_686: 1487337530
+      UI_687: -2018648255
+      UI_688: -1301267637
+      UI_689: -1362920857
+      UI_69: 1426145758
+      UI_690: 1406557008
+      UI_691: -1399298047
+      UI_692: -1399211973
+      UI_693: 868460449
+      UI_694: -1463314927
+      UI_695: -1370935700
+      UI_696: -1063721227
+      UI_697: -822089500
+      UI_698: 1448369755
+      UI_699: 1555788667
+      UI_7: -396109832
+      UI_70: -1954188760
+      UI_700: 109683939
+      UI_701: 627453266
+      UI_702: 492842178
+      UI_703: 2003795955
+      UI_704: 587953943
+      UI_705: 1610781789
+      UI_706: -378078657
+      UI_707: -1971760997
+      UI_708: 804290258
+      UI_709: -901410493
+      UI_71: -1280787559
+      UI_710: 2132830564
+      UI_711: 283048249
+      UI_712: 960779218
+      UI_713: 2103731735
+      UI_714: -1209884060
+      UI_715: -1610556004
+      UI_716: 2052775211
+      UI_717: -188336098
+      UI_718: -1578843603
+      UI_719: -22431598
+      UI_72: 145548994
+      UI_720: 351350254
+      UI_721: -124072144
+      UI_722: 194953649
+      UI_723: -496937266
+      UI_724: -348525664
+      UI_725: 1019330539
+      UI_726: -780189720
+      UI_727: 537635086
+      UI_728: -688569254
+      UI_729: -1062264102
+      UI_73: -2128601009
+      UI_730: 903589818
+      UI_731: -985123195
+      UI_732: -1138038753
+      UI_733: -2090240134
+      UI_734: -542027241
+      UI_735: 44542057
+      UI_736: -328594386
+      UI_737: -923826588
+      UI_738: 1025754920
+      UI_739: 1536313354
+      UI_74: 730792629
+      UI_740: 699833384
+      UI_741: -1041788717
+      UI_742: -513146630
+      UI_743: -808637269
+      UI_744: -1289901612
+      UI_745: 478450433
+      UI_746: -1999800538
+      UI_747: -1173515925
+      UI_748: 1017191660
+      UI_749: 64740721
+      UI_75: -356898169
+      UI_750: -136123477
+      UI_76: -1510849114
+      UI_77: -2052537114
+      UI_78: 173468899
+      UI_79: 927773064
+      UI_8: -186795009
+      UI_80: 1076109457
+      UI_81: -2006793951
+      UI_82: -849211306
+      UI_83: 1059165617
+      UI_84: 1866021692
+      UI_85: -584524345
+      UI_86: -905950840
+      UI_87: -3248993
+      UI_88: 151384581
+      UI_89: 1476553225
+      UI_9: 691550542
+      UI_90: 1076671368
+      UI_91: -592325427
+      UI_92: 837879684
+      UI_93: 1582848654
+      UI_94: -491339317
+      UI_95: -1395268651
+      UI_96: 1610544902
+      UI_97: 1442846144
+      UI_98: 603560294
+      UI_99: -917245024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
