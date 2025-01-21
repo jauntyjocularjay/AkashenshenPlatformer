@@ -1,0 +1,3 @@
+[submodule "Assets/2d-platformer-controller"]
+	path = Assets/2d-platformer-controller
+	url = https://github.com/jauntyjocularjay/2d-platformer-controller.git
